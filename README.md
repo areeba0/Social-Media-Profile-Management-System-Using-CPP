@@ -36,10 +36,10 @@ The Social Media Profile Class is a C++ program that models a user's social medi
 - validate_profile_picture(): Validates if the profile picture path is valid.
 - update_profile(): Interactive function to update profile attributes.
 
-#Usage
+# Usage
 #### 1) Profile Initialization: Create an instance of the Profile class with initial details.
 #### 2) Manage Attributes: Use getters and setters to manage the profile's attributes.
-Validate Data: Validate email format and check password strength.
-Update Profile: Use the interactive update_profile() function to update profile details.
-Retrieve Statistics: Use get_user_activity_stats() to get a summary of the user's activity.
-Calculate Completion: Use get_completion_percent() to calculate the completion percentage of the profile.
+#### 3) Validate Data: Validate email format and check password strength.
+#### 4) Update Profile: Use the interactive update_profile() function to update profile details.
+#### 5) Retrieve Statistics: Use get_user_activity_stats() to get a summary of the user's activity.
+#### 6) Calculate Completion: Use get_completion_percent() to calculate the completion percentage of the profile.
